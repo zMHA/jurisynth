@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+transformers==4.41.1
+fpdf
+wordfreq
+nltk
+torch
